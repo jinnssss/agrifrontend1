@@ -1,0 +1,14 @@
+How to Run
+Ensure the agribackend is Running in the Background:
+
+Make sure your backend server is set up and running. You might want to check if the service is up by using a command like npm start or whatever your backend service requires.
+Run the Application:
+
+Use the following command to start the application:
+
+"npm run dev"
+
+Additional Notes
+Ensure that you have all necessary dependencies installed by running:
+
+npm install
